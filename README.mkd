@@ -1,4 +1,4 @@
-![screenshot](./screenshot.png)
+![screenshot](https://raw.github.com/uu59/vim-herokudoc-theme/master/screenshot.png)
 
 Inspired by Heroku documentation
 
