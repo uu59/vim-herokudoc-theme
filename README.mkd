@@ -1,0 +1,7 @@
+![screenshot](./screenshot.png)
+
+Inspired by Heroku documentation
+
+<https://devcenter.heroku.com/articles/omniauth-and-force-com>
+
+NOTE: for gvim only
