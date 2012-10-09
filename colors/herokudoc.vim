@@ -78,7 +78,7 @@ hi Visual guibg=#c8c8ff guifg=#010101 gui=NONE
 
 " @ruby shebang
 " @diff method name?
-" ""
+" "^M"
 hi PreProc guifg=#d8fa3c gui=bold
 
 " @markdown head element
