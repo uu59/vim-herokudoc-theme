@@ -22,8 +22,8 @@ hi PmenuThumb guibg=#adc6ee guifg=#010101 gui=NONE
 hi LineNr guibg=#434e56 guifg=#adc6ee gui=NONE
 hi CursorLineNr guifg=#d8fa3c guibg=#292929
 hi CursorLine guibg=#292929
-hi StatusLine guibg=#434e56 guifg=#d8fa3c gui=bold
-hi StatusLineNC guibg=#434e56 guifg=#f8f8f8 gui=NONE
+hi StatusLine guibg=#000000 guifg=#d8fa3c gui=bold
+hi StatusLineNC guibg=#404040 guifg=#f8f8f8 gui=NONE
 hi VertSplit guibg=#434e56 guifg=#f8f8f8 gui=NONE
 hi SpecialKey guibg=#434e56 guifg=#a0a0a0
 hi Directory guifg=#d8fa3c
