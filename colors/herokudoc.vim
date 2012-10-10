@@ -15,26 +15,26 @@ set t_Co=256
 hi Normal    guibg=#434e56 guifg=#f8f8f8 gui=NONE
 
 " vim gui
-hi Pmenu guibg=#434e56 guifg=#f8f8f8 gui=NONE
-hi PmenuSel guibg=#d8fa3c guifg=#010101 gui=NONE
-hi PmenuSbar guibg=#434e56 guifg=#f8f8f8 gui=NONE
-hi PmenuThumb guibg=#adc6ee guifg=#010101 gui=NONE
-hi LineNr guibg=#434e56 guifg=#adc6ee gui=NONE
-hi CursorLineNr guifg=#d8fa3c guibg=#292929
-hi CursorLine guibg=#292929
-hi StatusLine guibg=#000000 guifg=#d8fa3c gui=bold
+hi Pmenu        guibg=#434e56 guifg=#f8f8f8 gui=NONE
+hi PmenuSel     guibg=#d8fa3c guifg=#010101 gui=NONE
+hi PmenuSbar    guibg=#434e56 guifg=#f8f8f8 gui=NONE
+hi PmenuThumb   guibg=#adc6ee guifg=#010101 gui=NONE
+hi LineNr       guibg=#434e56 guifg=#adc6ee gui=NONE
+hi CursorLineNr guibg=#292929 guifg=#d8fa3c
+hi CursorLine   guibg=#292929
+hi StatusLine   guibg=#000000 guifg=#d8fa3c gui=bold
 hi StatusLineNC guibg=#404040 guifg=#f8f8f8 gui=NONE
-hi VertSplit guibg=#434e56 guifg=#f8f8f8 gui=NONE
-hi SpecialKey guibg=#434e56 guifg=#a0a0a0
-hi Directory guifg=#d8fa3c
-hi Folded    guifg=#adc6ee guibg=#434e56 gui=bold
-hi IncSearch guifg=#d8fa3c guibg=#010101 
-hi MatchParen gui=bold
-hi NonText guifg=#adc6ee
-hi Question    guibg=#d8fa3c guifg=#f8f8f8 gui=NONE
-hi WarningMsg    guibg=#d8fa3c guifg=#f8f8f8 gui=NONE
-hi MoreMsg    guifg=#d8fa3c gui=NONE
-hi Search guibg=#fbde2d guifg=#101010 gui=NONE
+hi VertSplit    guibg=#434e56 guifg=#f8f8f8 gui=NONE
+hi SpecialKey   guibg=#434e56 guifg=#a0a0a0
+hi Directory    guifg=#d8fa3c
+hi Folded       guibg=#434e56 guifg=#adc6ee gui=bold
+hi IncSearch    guibg=#010101 guifg=#d8fa3c
+hi MatchParen   gui=bold
+hi NonText      guifg=#adc6ee
+hi Question     guifg=#d8fa3c gui=NONE
+hi WarningMsg   guifg=#d8fa3c gui=NONE
+hi MoreMsg      guifg=#d8fa3c gui=NONE
+hi Search       guibg=#fbde2d guifg=#101010 gui=NONE
 
 " language highlighting
 
@@ -50,7 +50,7 @@ hi Include guifg=#f8f8f8 gui=bold
 
 hi Comment   guifg=#aeaeae
 
-" symbol
+" @ruby symbol
 hi Constant  guifg=#d8fa3c
 
 hi String    guifg=#adc6ee
