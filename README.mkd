@@ -4,4 +4,6 @@ Inspired by Heroku documentation
 
 <https://devcenter.heroku.com/articles/omniauth-and-force-com>
 
-NOTE: for gvim only
+<del>NOTE: for gvim only</del>
+
+vim (on terminal) is supported since v0.1.0
